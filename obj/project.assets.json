@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\P1-vehicle_example\\Practice1.csproj",
-      "projectName": "Practice1",
-      "projectPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\P1-vehicle_example\\Practice1.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\repositorio\\Practica1.csproj",
+      "projectName": "Practica1",
+      "projectPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\repositorio\\Practica1.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\P1-vehicle_example\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3º\\Paradigmas de Programación\\repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",

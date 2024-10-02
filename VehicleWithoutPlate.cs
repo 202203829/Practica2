@@ -2,8 +2,10 @@
 {
     class VehicleWithoutPlate: Vehicle
     {
-        public VehicleWithPlate(string typeOfVehicle, int speed); base(typeOfVehicle, speed)
+        public VehicleWithoutPlate(string typeOfVehicle) : base(typeOfVehicle)
         {
+
         }
-}
+
+    }
 }

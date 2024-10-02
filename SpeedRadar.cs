@@ -1,4 +1,4 @@
-﻿namespace Practice1
+﻿namespace Practica1
 {
     class SpeedRadar : IMessageWritter
     {
@@ -15,28 +15,30 @@
             SpeedHistory = new List<float>();
         }
 
-        public void TriggerRadar(Vehicle vehicle)
+        public void TriggerRadar(VehicleWithPlate vehicle)
         {
             plate = vehicle.GetPlate();
             speed = vehicle.GetSpeed();
             SpeedHistory.Add(speed);
         }
         
-        public string GetLastReading()
+        public bool GetLastReading()
         {
             if (speed > legalSpeed)
             {
-                return WriteMessage("Catched above legal speed.");
+                return true;
             }
             else
             {
-                return WriteMessage("Driving legally.");
+                return false;
             }
         }
 
         public virtual string WriteMessage(string radarReading)
         {
-            return $"Vehicle with plate {plate} at {speed.ToString()} km/h. {radarReading}";
+            return $"Vehicle with plate {plate} at {speed} km/h. {radarReading}";
         }
+
+
     }
 }

@@ -1,25 +1,19 @@
-﻿namespace Practice1
+﻿namespace Practica1
 {
     abstract class Vehicle : IMessageWritter
     {
         private string typeOfVehicle;
         private float speed;
 
-        
-
-        //Override ToString() method with class information
-        public override string ToString()
+        public Vehicle(string typeOfVehicle)
         {
-            return $"{GetTypeOfVehicle()} with plate {GetPlate()}";
+            this.typeOfVehicle = typeOfVehicle;
         }
 
         public string GetTypeOfVehicle()
         {
             return typeOfVehicle;
         }
-
-        
-
 
         public float GetSpeed()
         {

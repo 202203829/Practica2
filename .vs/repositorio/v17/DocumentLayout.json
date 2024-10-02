@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpeedRadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Practice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliceCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpeedRadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +42,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
-              "RelativeDocumentMoniker": "Vehicle.cs",
-              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
-              "RelativeToolTip": "Vehicle.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:25:46.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SpeedRadar.cs",
-              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
-              "RelativeDocumentMoniker": "SpeedRadar.cs",
-              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
-              "RelativeToolTip": "SpeedRadar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:52:22.758Z",
+              "WhenOpened": "2024-10-02T10:55:28.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-01T17:24:22.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
               "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs",
               "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:24:20.878Z",
               "EditorCaption": ""
@@ -87,15 +73,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Practice1.csproj",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Practice1.csproj",
+              "RelativeDocumentMoniker": "Practice1.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Practice1.csproj",
+              "RelativeToolTip": "Practice1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T10:32:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:03:45.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PoliceCar.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceCar.cs",
               "RelativeDocumentMoniker": "PoliceCar.cs",
               "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceCar.cs",
               "RelativeToolTip": "PoliceCar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:22:29.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T17:22:29.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeedRadar.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
+              "RelativeDocumentMoniker": "SpeedRadar.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
+              "RelativeToolTip": "SpeedRadar.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:52:22.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:25:46.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-01T17:24:22.468Z"
             }
           ]
         }
