@@ -29,6 +29,10 @@
                 Console.WriteLine(WriteMessage("is already in a ride."));
             }
         }
+        public void SetCity(City city = null)
+        {
+            this.city = city;
+        }
 
         public void StopRide()
         {

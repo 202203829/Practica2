@@ -36,12 +36,12 @@
                     bool meassurement = speedRadar.GetLastReading();
                     if (meassurement)
                     {
-                        Console.WriteLine(WriteMessage($"Triggered radar. Result: Catched above legal speed."));
+                        Console.WriteLine(WriteMessage($"Triggered radar. Result: Vehicle with plate {vehicle.GetPlate()} at {speedRadar.GetLastSpeed()}. Catched above legal speed."));
                         NotifyInfractor(vehicle.GetPlate());
                     }
                     else
                     {
-                        Console.WriteLine(WriteMessage($"Triggered radar. Result: Driving Legally."));
+                        Console.WriteLine(WriteMessage($"Triggered radar. Result: Vehicle with plate {vehicle.GetPlate()} at {speedRadar.GetLastSpeed()}. Driving Legally."));
                     }
                 }
                 else
@@ -103,7 +103,6 @@
                 Console.WriteLine(WriteMessage($"chasing car with plate {plate}"));
             }
         }
-
 
         public void PrintRadarHistory()
         {

@@ -12,7 +12,7 @@
         }
         public override string ToString()
         {
-            return $"City with name {GetName()}";
+            return $"City {GetName()}";
         }
 
         public string GetName()
@@ -31,6 +31,7 @@
             if (taxiLicenses.Remove(taxi))
             {
                 Console.WriteLine(WriteMessage($"Taxi with plate {taxi.GetPlate()} remove license"));
+                taxi.SetCity(null);
             }
             else
             {

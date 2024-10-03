@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\vehiclewithoutplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:vehiclewithoutplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\vehiclewithplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:vehiclewithplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|c:\\users\\pablo\\onedrive\\escritorio\\imat\\imat 3\u00BA\\paradigmas de programaci\u00F3n\\repositorio\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF3088A-DCAB-4093-B07E-0368D395A8D7}|Practica1.csproj|solutionrelative:policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:00:39.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoliceCar.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceCar.cs",
+              "RelativeDocumentMoniker": "PoliceCar.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceCar.cs",
+              "RelativeToolTip": "PoliceCar.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwvyYAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoliceStation.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceStation.cs",
+              "RelativeDocumentMoniker": "PoliceStation.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\PoliceStation.cs",
+              "RelativeToolTip": "PoliceStation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:11.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleWithPlate.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\VehicleWithPlate.cs",
+              "RelativeDocumentMoniker": "VehicleWithPlate.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\VehicleWithPlate.cs",
+              "RelativeToolTip": "VehicleWithPlate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleWithoutPlate.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\VehicleWithoutPlate.cs",
+              "RelativeDocumentMoniker": "VehicleWithoutPlate.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\VehicleWithoutPlate.cs",
+              "RelativeToolTip": "VehicleWithoutPlate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:12.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeedRadar.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
+              "RelativeDocumentMoniker": "SpeedRadar.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\SpeedRadar.cs",
+              "RelativeToolTip": "SpeedRadar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Scooter.cs",
+              "RelativeDocumentMoniker": "Scooter.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Scooter.cs",
+              "RelativeToolTip": "Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMessageWritter.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\IMessageWritter.cs",
+              "RelativeDocumentMoniker": "IMessageWritter.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\IMessageWritter.cs",
+              "RelativeToolTip": "IMessageWritter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:01:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\iMat\\iMat 3\u00BA\\Paradigmas de Programaci\u00F3n\\repositorio\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:00:36.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

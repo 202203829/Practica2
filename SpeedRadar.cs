@@ -33,6 +33,10 @@
                 return false;
             }
         }
+        public float GetLastSpeed()
+        {
+            return speed;
+        }
 
         public virtual string WriteMessage(string radarReading)
         {

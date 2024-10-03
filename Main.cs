@@ -7,21 +7,15 @@
         {
             City city = new City("Madrid");
             PoliceStation policeStation = new PoliceStation(city);
+            Console.WriteLine(city.WriteMessage("Created"));
+            Console.WriteLine(policeStation.WriteMessage("Created"));
+
             Taxi taxi1 = new Taxi("0001 AAA", city);
             Taxi taxi2 = new Taxi("0002 BBB", city);
             Taxi taxi3 = new Taxi("0003 CCC", city);
             PoliceCar policeCar1 = new PoliceCar("0001 CNP", policeStation, true);
             PoliceCar policeCar2 = new PoliceCar("0002 CNP", policeStation, true);
             PoliceCar policeCar3 = new PoliceCar("0003 CNP", policeStation, false);
-
-            Console.WriteLine(city.WriteMessage("Created"));
-            Console.WriteLine(policeCar1.WriteMessage("Created"));
-            Console.WriteLine(taxi1.WriteMessage("Created"));
-            Console.WriteLine(taxi2.WriteMessage("Created"));
-            Console.WriteLine(taxi3.WriteMessage("Created"));
-            Console.WriteLine(policeCar1.WriteMessage("Created"));
-            Console.WriteLine(policeCar2.WriteMessage("Created"));
-            Console.WriteLine(policeCar3.WriteMessage("Created"));
 
             policeCar1.StartPatrolling();
             policeCar1.UseRadar(taxi1);
